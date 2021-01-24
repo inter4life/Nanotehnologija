@@ -6,6 +6,7 @@ Nanotehnologija in človek:
 - bionska roka
 - Zdravljenje raka s pomočjo nanotehnologije
 - Nanosenzorji
+- hipertermija tumorskih celic
 2. Nanotehnologija in zdravje:
 - uvod
 - nanotehnologija in živila
