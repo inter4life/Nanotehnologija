@@ -7,6 +7,7 @@ Nanotehnologija in človek:
 - Zdravljenje raka s pomočjo nanotehnologije
 - Nanosenzorji
 - hipertermija tumorskih celic
+- Nanotehnologija lahko pospeši testiranje zdravil
 2. Nanotehnologija in zdravje:
 - uvod
 - nanotehnologija in živila
