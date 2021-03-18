@@ -1,14 +1,9 @@
-nanodelci: uvod
 pravopisne napake
 oglati oklepaji (hiperpovezave) - linki literature implementiri v sam text (zgled wikipedija)
 slika 1:.... pravilno navedi slike. ni treba hiper povezzav, ker imaš že v litereturi podane
-Zaslužni namesto zasluge
 ohrani pozornost:
 - barve
 - velike tiskane
-formule: stil (Sio2 naj bo 2 vspodaj)
 opremi naslove (sexy calours mybes)
-bolha stran  (zabriši text: bolha.com)
-imena slik- konkretn kontekst (kaj prikazuje pr jagodki)
 
 poročilo
